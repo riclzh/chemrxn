@@ -6,17 +6,17 @@ date: 2010-10-1
 excerpt: 'test'
 ---
 
-Limin Yang, Fei Wang, <b>Richmond Lee<b>, Yunbo Lv, Kuo-Wei Huang, Guofu Zhong, “Asymmetric NHC-Catalyzed Aza-Diels–Alder Reactions: Highly Enantioselective Route to α-Amino Acid Derivatives and DFT Calculations”, Org. Lett., 2014, 16, 3872–3875 [DOI: 10.1021/ol501424f].
+Limin Yang, Fei Wang, <b> Richmond Lee, <b> Yunbo Lv, Kuo-Wei Huang, Guofu Zhong, “Asymmetric NHC-Catalyzed Aza-Diels–Alder Reactions: Highly Enantioselective Route to α-Amino Acid Derivatives and DFT Calculations”, Org. Lett., 2014, 16, 3872–3875 [DOI: 10.1021/ol501424f].
 
-Derek R Laws, R Morris Bullock, <b>Richmond Lee<b>, Kuo-Wei Huang, William E Geiger, “Comparison of the One-Electron Oxidations of CO-Bridged vs Unbridged Bimetallic Complexes: Electron-Transfer Chemistry of Os2Cp2(CO)4 and Os2Cp*2(μ-CO)2(CO)2 (Cp= η5-C5H¬, Cp*= η5-C5Me5)”, Organometallics, 2014, 33, 4716-4728 [DOI: 10.1021/om401213y].
+Derek R Laws, R Morris Bullock, Richmond Lee, Kuo-Wei Huang, William E Geiger, “Comparison of the One-Electron Oxidations of CO-Bridged vs Unbridged Bimetallic Complexes: Electron-Transfer Chemistry of Os2Cp2(CO)4 and Os2Cp*2(μ-CO)2(CO)2 (Cp= η5-C5H¬, Cp*= η5-C5Me5)”, Organometallics, 2014, 33, 4716-4728 [DOI: 10.1021/om401213y].
 
-Xiao Han, <b>Richmond Lee<b>, Tao Chen, Jie Luo, Yixin Lu, Kuo-Wei Huang, “Kinetic Evidence of an Apparent Negative Activation Enthalpy in an Organocatalytic Process”, Scientific Reports, 2013, 3, article 2557 [DOI: 10.1038/srep02557].
+Xiao Han, <b> Richmond Lee <b>, Tao Chen, Jie Luo, Yixin Lu, Kuo-Wei Huang, “Kinetic Evidence of an Apparent Negative Activation Enthalpy in an Organocatalytic Process”, Scientific Reports, 2013, 3, article 2557 [DOI: 10.1038/srep02557]. 
 
-<b>Richmond Lee<b>, Fangrui Zhong, Bin Zheng, Yuezhong Meng, Yixin Lu, Kuo-Wei Huang, “The Origin of Enantioselectivity in the L-Threonine-derived Phosphine–Sulfonamide Catalyzed aza-Morita–Baylis–Hilman Reaction: Effects of the Intramolecular Hydrogen Bonding”, Org. Biomol.Chem. 2013, 11, 4818-4824 [DOI: 10.1039/C3OB40144H].
+<b> Richmond Lee <b>, Fangrui Zhong, Bin Zheng, Yuezhong Meng, Yixin Lu, Kuo-Wei Huang, “The Origin of Enantioselectivity in the L-Threonine-derived Phosphine–Sulfonamide Catalyzed aza-Morita–Baylis–Hilman Reaction: Effects of the Intramolecular Hydrogen Bonding”, Org. Biomol.Chem. 2013, 11, 4818-4824 [DOI: 10.1039/C3OB40144H].
 
-Bo Zhu, Wen Zhang, <b>Richmond Lee<b>, Zhiqiang Han, Wenguo Yang, Davin Tan, Kuo‐Wei Huang, Zhiyong Jiang, “Direct Asymmetric Vinylogous Aldol Reaction of Allyl Ketones with Isatins: Divergent Synthesis of 3‐Hydroxy‐2‐Oxindole Derivative”, Angew. Chem. Int. Ed., 2013, 52, 6798-6802 [DOI: 10.1002/ange.201302274]. 
+Bo Zhu, Wen Zhang, Richmond Lee, Zhiqiang Han, Wenguo Yang, Davin Tan, Kuo‐Wei Huang, Zhiyong Jiang, “Direct Asymmetric Vinylogous Aldol Reaction of Allyl Ketones with Isatins: Divergent Synthesis of 3‐Hydroxy‐2‐Oxindole Derivative”, Angew. Chem. Int. Ed., 2013, 52, 6798-6802 [DOI: 10.1002/ange.201302274]. 
   
-Zhiqiang Weng, Weimeng He, Chaohuang Chen, <b>Richmond Lee<b>, Davin Tan, Zhiping Lai, Dedao Kong, Yaofeng Yuan, Kuo-Wei Huang, “An Air-Stable Copper Reagent for Nucleophilic Trifluoromethylation of Aryl Halides”, Angew.  Chem. Int. Ed., 2013, 52, 1548-1552 [DOI: 10.1002/anie.201208432].
+Zhiqiang Weng, Weimeng He, Chaohuang Chen, Richmond Lee, Davin Tan, Zhiping Lai, Dedao Kong, Yaofeng Yuan, Kuo-Wei Huang, “An Air-Stable Copper Reagent for Nucleophilic Trifluoromethylation of Aryl Halides”, Angew.  Chem. Int. Ed., 2013, 52, 1548-1552 [DOI: 10.1002/anie.201208432].
 
 Guanghu Tong, Bo Zhu, Richmond Lee, Wenguo Yang, Davin Tan, Caiyun Yang, Zhiqiang Han, Lin Yan, Kuo-Wei Huang, Zhiyong Jiang, “Highly Enantio-and Diastereoselective Allylic Alkylation of Morita-Baylis-Hillman Cabonates with Allyl Ketones”, J. Org. Chem., 2013, 78, 5067–5072 [DOI: 10.1021/jo400496z].
 
