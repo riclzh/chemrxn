@@ -6,7 +6,7 @@ date: 2013-1-1
 excerpt: 'These work were done during my PhD'
 ---
 
-* Nan-Sook Hong, Dušan Petrović, **Richmond Lee**, Ganna Gryn’ova, Miha Purg, Jake Saunders, Paul Bauer, Paul D. Carr, Ching-Yeh Lin, Peter D. Mabbitt, William Zhang, Timothy Altamore, Chris Easton, Michelle L. Coote, Shina C. L. Kamerlin & Colin J. Jackson, “The evolution of multiple active site configurations in a designed enzyme”, Nature Communications, 2018, 9, 3900 [DOI: 10.1038/s41467-018-06305](https://doi.dx.org/10.1038/s41467-018-06305-y).
+* Nan-Sook Hong, Dušan Petrović, **Richmond Lee**, Ganna Gryn’ova, Miha Purg, Jake Saunders, Paul Bauer, Paul D. Carr, Ching-Yeh Lin, Peter D. Mabbitt, William Zhang, Timothy Altamore, Chris Easton, Michelle L. Coote, Shina C. L. Kamerlin & Colin J. Jackson, “The evolution of multiple active site configurations in a designed enzyme”, Nature Communications, 2018, 9, 3900 [DOI: 10.1038/s41467-018-06305](https://doi.org/10.1038/s41467-018-06305-y).
 
 *	Bo Zhu, **Richmond Lee**, Yanli Yin, Fuyuan Li, Michelle L Coote, Zhiyong Jiang, "Enantioselective Vinylogous Amination of 5‑Alkyl-4-nitroisoxazoles with a Dipeptide-Based Guanidinium Phase-Transfer Catalyst", Org. Lett., 2018, 20, 429−432 [DOI: 10.1021/acs.orglett.7b03759](https://doi.dx.org/10.1021/acs.orglett.7b03759).
 
