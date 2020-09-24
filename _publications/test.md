@@ -6,7 +6,7 @@ date: 2010-10-1
 excerpt: 'test'
 ---
 
-Limin Yang, Fei Wang, Richmond Lee, Yunbo Lv, Kuo-Wei Huang, Guofu Zhong, “Asymmetric NHC-Catalyzed Aza-Diels–Alder Reactions: Highly Enantioselective Route to α-Amino Acid Derivatives and DFT Calculations”, Org. Lett., 2014, 16, 3872–3875 [DOI: 10.1021/ol501424f](dx.doi.org/10.1021/ol501424f).
+Limin Yang, Fei Wang, Richmond Lee, Yunbo Lv, Kuo-Wei Huang, Guofu Zhong, “Asymmetric NHC-Catalyzed Aza-Diels–Alder Reactions: Highly Enantioselective Route to α-Amino Acid Derivatives and DFT Calculations”, Org. Lett., 2014, 16, 3872–3875 [DOI: 10.1021/ol501424f](https://dx.doi.org/10.1021/ol501424f).
 
 Derek R Laws, R Morris Bullock, Richmond Lee, Kuo-Wei Huang, William E Geiger, “Comparison of the One-Electron Oxidations of CO-Bridged vs Unbridged Bimetallic Complexes: Electron-Transfer Chemistry of Os2Cp2(CO)4 and Os2Cp*2(μ-CO)2(CO)2 (Cp= η5-C5H¬, Cp*= η5-C5Me5)”, Organometallics, 2014, 33, 4716-4728 [DOI: 10.1021/om401213y].
 
