@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Publications"
-    url: https://riclzh.github.io/molecularlab/publications/
+    url: https://riclzh.github.io/chemrxn/publications/
 
   - title: "Talks"
-    url: https://riclzh.github.io/molecularlab/talks/    
+    url: https://riclzh.github.io/chemrxn/talks/    
 
   - title: "Teaching"
-    url: https://riclzh.github.io/molecularlab/teaching/    
+    url: https://riclzh.github.io/chemrxn/teaching/    
     
   - title: "Portfolio"
-    url: https://riclzh.github.io/molecularlab/portfolio/
+    url: https://riclzh.github.io/chemrxn/portfolio/
         
   - title: "Blog Posts"
-    url: https://riclzh.github.io/molecularlab/year-archive/
+    url: https://riclzh.github.io/chemrxn/year-archive/
     
   - title: "CV"
-    url: https://riclzh.github.io/molecularlab/cv/
+    url: https://riclzh.github.io/chemrxn/cv/
     
   - title: "Guide"
-    url: https://riclzh.github.io/molecularlab/markdown/
+    url: https://riclzh.github.io/chemrxn/markdown/
