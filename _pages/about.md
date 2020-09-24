@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About![](/images/NCRL.png)
+<p align="left">
+  <img src="/images/NCRL.png" width="350" title="hover text">
+</p>
+About
 ---
 The group is run by ring-leader, Dr. Richmond Lee, a synthetic/computational chemist and currently a Vice Chancellor's Research Fellow at the [University of Wollongong](https://scholars.uow.edu.au/display/richmond_lee). 
 
