@@ -1,8 +1,8 @@
 ---
 title: "test"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-date: 'x'
+permalink: /publications/test
+date: 2010-10-1
 excerpt: 'test'
 ---
 test
