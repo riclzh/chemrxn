@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "NCRL @ UOW"
 title_separator          : "-"
-name                     : &name "New Chemical Reactivity Lab"
+name                     : &name "Richmond Lee"
 description              : &description "Welcome to my group page"
 url                      : https://riclzh.github.io/chemrxn # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Richmond Lee"
+  name             : "New Chemical Reactivity Lab"
   avatar           : "profile.png"
-  bio              : "UOW Vice Chancellor's Research Fellow"
+  bio              : "This lab is managed by Dr Richmond Lee, Vice Chancellor's Research Fellow at the University of Wollongong"
   location         : "Location"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=richmond+lee"
