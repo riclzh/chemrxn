@@ -3,8 +3,10 @@ title: "Pre-PhD"
 collection: publications
 permalink: /publications/test
 date: 2009-1-1
-excerpt: 'These works were published pior my PhD'
+excerpt: 'These work were done during my Bsc/MSc period'
 ---
+
+*	**Richmond Lee**, Davin Tan, Chaoli Liu, Huaifeng Li, Hao Guo, Jing-Jong Shyue, Kuo-Wei Huang, "DFT mechanistic study of the selective terminal C-H activation of n-pentane with a tungsten allyl nitrosyl complex", J. Saudi Chem. Soc., 2017, 21, 558-562 [DOI: 10.1016/j.jscs.2016.12.004](https://dx.doi.org/10.1016/j.jscs.2016.12.004).
 
 * Limin Yang, Fei Wang, **Richmond Lee**, Yunbo Lv, Kuo-Wei Huang, Guofu Zhong, “Asymmetric NHC-Catalyzed Aza-Diels–Alder Reactions: Highly Enantioselective Route to α-Amino Acid Derivatives and DFT Calculations”, Org. Lett., 2014, 16, 3872–3875 [DOI: 10.1021/ol501424f](https://dx.doi.org/10.1021/ol501424f).
 
