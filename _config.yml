@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NCRL @ UOW"
+title                    : "New Chemical Reactivity Lab"
 title_separator          : "-"
 name                     : &name "Richmond Lee"
 description              : &description "Welcome to my group page"
