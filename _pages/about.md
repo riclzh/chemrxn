@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the Group!"
+title: "Welcome to the Novel Chemical Reactivity Lab!"
 excerpt: "The homepage of Novel Chemical Reactivity Lab"
 author_profile: true
 redirect_from: 
