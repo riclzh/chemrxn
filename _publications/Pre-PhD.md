@@ -2,7 +2,7 @@
 title: "Pre-PhD"
 collection: publications
 permalink: /publications/Pre-PhD
-excerpt: 'T'
+excerpt: 'These are work published during my BSc/MSc period'
 date: 2009-2012
 ---
 
