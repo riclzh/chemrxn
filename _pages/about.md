@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p align="left">
-  <img src="/images/NCRL.png" width="150">
+  <img src="/images/NCRL.png" width="250">
 </p>
 
 About
