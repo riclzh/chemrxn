@@ -6,6 +6,8 @@ date: 2009-1-1
 excerpt: 'These work were done during my Bsc/MSc period'
 ---
 
+* Kristin Munkerup, Michael Thulin, Davin Tan, Xiaozhi Lim, **Richmond Lee**, Kuo-Wei Huang, “Importance of thorough conformational analysis in modelling transition metal-mediated reactions: Case studies on pincer complexes containing phosphine groups”, J. Saudi Chem. Soc., 2019, 23, 1206-1218 [DOI: 10.1016/j.jscs.2019.07.005](https://dx.doi.org/10.1016/j.jscs.2019.07.005).
+
 *	**Richmond Lee**, Davin Tan, Chaoli Liu, Huaifeng Li, Hao Guo, Jing-Jong Shyue, Kuo-Wei Huang, "DFT mechanistic study of the selective terminal C-H activation of n-pentane with a tungsten allyl nitrosyl complex", J. Saudi Chem. Soc., 2017, 21, 558-562 [DOI: 10.1016/j.jscs.2016.12.004](https://dx.doi.org/10.1016/j.jscs.2016.12.004).
 
 * Limin Yang, Fei Wang, **Richmond Lee**, Yunbo Lv, Kuo-Wei Huang, Guofu Zhong, “Asymmetric NHC-Catalyzed Aza-Diels–Alder Reactions: Highly Enantioselective Route to α-Amino Acid Derivatives and DFT Calculations”, Org. Lett., 2014, 16, 3872–3875 [DOI: 10.1021/ol501424f](https://dx.doi.org/10.1021/ol501424f).
@@ -14,7 +16,7 @@ excerpt: 'These work were done during my Bsc/MSc period'
 
 * Xiao Han, **Richmond Lee**, Tao Chen, Jie Luo, Yixin Lu, Kuo-Wei Huang, “Kinetic Evidence of an Apparent Negative Activation Enthalpy in an Organocatalytic Process”, Scientific Reports, 2013, 3, article 2557 [DOI: 10.1038/srep02557](https://dx.doi.org/10.1038/srep02557). 
 
-* **Richmond Lee**, Fangrui Zhong, Bin Zheng, Yuezhong Meng, Yixin Lu, Kuo-Wei Huang, “The Origin of Enantioselectivity in the L-Threonine-derived Phosphine–Sulfonamide Catalyzed aza-Morita–Baylis–Hilman Reaction: Effects of the Intramolecular Hydrogen Bonding”, Org. Biomol.Chem. 2013, 11, 4818-4824 [DOI: 10.1039/C3OB40144H](https://dx.doi.org/10.1039/C3OB40144H).
+* **Richmond Lee**, Fangrui Zhong, Bin Zheng, Yuezhong Meng, Yixin Lu, Kuo-Wei Huang, “The Origin of Enantioselectivity in the L-Threonine-derived Phosphine–Sulfonamide Catalyzed aza-Morita–Baylis–Hilman Reaction: Effects of the Intramolecular Hydrogen Bonding”, Org. Biomol. Chem. 2013, 11, 4818-4824 [DOI: 10.1039/C3OB40144H](https://dx.doi.org/10.1039/C3OB40144H).
 
 * Bo Zhu, Wen Zhang, **Richmond Lee**, Zhiqiang Han, Wenguo Yang, Davin Tan, Kuo‐Wei Huang, Zhiyong Jiang, “Direct Asymmetric Vinylogous Aldol Reaction of Allyl Ketones with Isatins: Divergent Synthesis of 3‐Hydroxy‐2‐Oxindole Derivative”, Angew. Chem. Int. Ed., 2013, 52, 6798-6802 [DOI: 10.1002/ange.201302274](https://dx.doi.org/10.1002/ange.201302274). 
   
