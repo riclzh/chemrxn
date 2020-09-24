@@ -9,7 +9,7 @@ redirect_from:
 ---
 About
 ---
-The group leader, Dr. Richmond Lee, is a synthetic/computational chemist and currently a Vice Chancellor's Research Fellow at the [University of Wollongong](https://scholars.uow.edu.au/display/richmond_lee). 
+The group is run by ring-leader, Dr. Richmond Lee, a synthetic/computational chemist and currently a Vice Chancellor's Research Fellow at the [University of Wollongong](https://scholars.uow.edu.au/display/richmond_lee). 
 
 Research focus
 ---
