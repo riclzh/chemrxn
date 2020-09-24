@@ -9,7 +9,7 @@ redirect_from:
 ---
 About
 ---
-The group leader, Dr. Richmond Lee, is a synthetic/computational chemist and currently a Vice Chancellor's Research Fellow at the [University of Wollongong](https://scholars.uow.edu.au/display/richmond_lee). Richmond completed his PhD at the Australian National University under Australian Laureate Fellow [Prof. Michelle Coote](https://rsc.anu.edu.au/~mcoote/). After his PhD in 2016, he embarked on a three-year independent fellowship at the Singapore University of Technology and Design, and subsequently moved to the University of Wollongong in Autumn 2020.
+The group leader, Dr. Richmond Lee, is a synthetic/computational chemist and currently a Vice Chancellor's Research Fellow at the [University of Wollongong](https://scholars.uow.edu.au/display/richmond_lee). 
 
 Research focus
 ---
