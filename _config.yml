@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "New Chemical Reactivity Lab"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Richmond Lee"
 description              : &description "New Chemical Reactivity Lab @ UOW"
