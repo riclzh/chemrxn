@@ -2,7 +2,7 @@
 title: "PhD"
 collection: publications
 permalink: /publications/PhD
-date: 2013-1-1
+<!--date: 2013-1-1-->
 excerpt: 'These work were done during my PhD'
 ---
 
