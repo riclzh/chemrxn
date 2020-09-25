@@ -10,8 +10,8 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-<!-- Uncomment below for original format
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
--->
+
