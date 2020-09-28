@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+---
 <p align="center">
   <img src="https://github.com/riclzh/chemrxn/blob/master/images/NCRL.png" width="250">
 </p>
