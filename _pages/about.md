@@ -11,7 +11,8 @@ redirect_from:
 <p align="center">
   <img src="https://github.com/riclzh/chemrxn/blob/master/images/NCRL.png" width="250">
 </p>
-![](/images/NCRL.png){: width="250}
+
+![](/images/NCRL.png){:width="250px"}
 
 About
 ---
